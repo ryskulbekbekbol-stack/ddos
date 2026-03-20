@@ -1,0 +1,10 @@
+root
+admin
+12345
+password
+123456
+111111
+888888
+666666
+default
+system
