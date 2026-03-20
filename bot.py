@@ -31,8 +31,8 @@ from aiogram.fsm.state import State, StatesGroup
 from aiogram.fsm.storage.memory import MemoryStorage
 
 # ===== НАСТРОЙКИ =====
-BOT_TOKEN = "YOUR_BOT_TOKEN"               # замени
-ADMIN_IDS = [8313963542]                    # твой ID
+BOT_TOKEN = "BOT_TOKEN"               # замени
+ADMIN_IDS = [ADMINS_IDS]                    # твой ID
 THREADS = 50                                 # потоков для брутфорса
 
 # ===== БАЗА ДАННЫХ =====
